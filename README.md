@@ -1,1 +1,1 @@
-# Collaborative-Filtering-under-Model-Uncertainty
+# Collaborative Filtering under Model Uncertainty
