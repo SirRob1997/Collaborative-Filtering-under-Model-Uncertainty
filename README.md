@@ -26,5 +26,6 @@ If you use our results, please consider citing:
     title={Collaborative Filtering under Model Uncertainty},
     author={Robin M. Schmidt and Moritz Hahn},
     year={2020},
+    url={https://github.com/SirRob1997/Collaborative-Filtering-under-Model-Uncertainty}
 }
 ```
